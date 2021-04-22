@@ -10,8 +10,9 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 /[Ss]treamingAssets/
-/Firebase/
-/Plugins/iOS/
+
+[Aa]ssets/Firebase/
+[Aa]ssets/Plugins/iOS/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
