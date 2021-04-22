@@ -9,8 +9,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-/[Ss]treamingAssets/
 
+[Aa]ssets/StreamingAssets/
 [Aa]ssets/Firebase/
 [Aa]ssets/Plugins/iOS/
 
